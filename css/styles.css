@@ -137,6 +137,12 @@ ul {
         color: var(--color-2196f3);
 }
 
+.contacts-item-icon-email,
+.contacts-item-icon-smartphone {
+        fill: currentColor;
+        margin-right: 10px;
+}
+
 /*makes link and button an active on needed page */
 .now-on {
         color: var(--color-2196f3);
